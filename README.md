@@ -1,2 +1,2 @@
 # Splittermond_Tools
-A collection of Tools for the RPG Splittermond
+A collection of tools for the RPG Splittermond
